@@ -2,7 +2,7 @@
   $('.header_slick-slider').slick({
     dots: true,
     speed: 1000,
-    // autoplay: true,
+    autoplay: true,
     arrows: false,
     slidesToShow: 1,
     slidesToScroll: 1,
@@ -12,7 +12,7 @@
     centerMode: true,
     slidesToShow: 3,
     speed: 1000,
-    // autoplay: true,
+    autoplay: true,
     responsive: [
       {
         breakpoint: 1201,
